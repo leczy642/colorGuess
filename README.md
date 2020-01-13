@@ -13,4 +13,4 @@ To run this project
 
 1. Download or clone repo
 2. Unpack the downloaded folder in a system folder
-3. Open the folder and click on the index.html file
+3. Open the unpacked folder and click on the index.html file
